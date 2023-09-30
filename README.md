@@ -1,2 +1,0 @@
-# pokemon
-Route 1
